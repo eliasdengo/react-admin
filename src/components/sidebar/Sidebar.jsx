@@ -51,7 +51,7 @@ const Sidebar = () => {
           <li>
             <ExitToAppIcon className="icon" />
             <span>Logout</span>
-            onPress={() => this.signOutUser()}
+            
           </li>
         </ul>
       </div>
